@@ -23,20 +23,20 @@ b. Arrays
     2. Solution:  https://ru.files.fm/u/67gbks5g
   III. Challenge 3
     1. URL: https://edabit.com/challenge/QaApgtePE6QrCZ64o
-    2. Solution: https://ru.files.fm/u/95pszzaf#sign_up
+    2. Solution: https://ru.files.fm/u/95pszzaf
   IV. Challenge 4
     1. URL: https://edabit.com/challenge/8Qg78sf5SNDEANKti
-    2. Solution: https://ru.files.fm/u/4qddzwwe#sign_up
+    2. Solution: https://ru.files.fm/u/4qddzwwe
   v. Challenge 5
     1. URL: https://edabit.com/challenge/ghbHrRnRiDz9fvQNF
     2. Solution: https://ru.files.fm/u/unu89mun
 c. Loops
   I. Challenge 1
     1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
-    2. Solution: https://ru.files.fm/u/qkc3jn35#sign_up
+    2. Solution: https://ru.files.fm/u/qkc3jn35
   II. Challenge 2
     1. URL: https://edabit.com/challenge/Qbi3GuXjwW5fsoKRn
-    2. Solution: https://ru.files.fm/u/akp6qhxm#sign_up
+    2. Solution: https://ru.files.fm/u/akp6qhxm
   III. Challenge 3
     1. URL: https://edabit.com/challenge/EzbfiquDoAc2Zc9FL
     2. Solution: https://ru.files.fm/u/7n9uaue6
@@ -52,7 +52,23 @@ d. Functional Programming
     2. Solution:  https://ru.files.fm/u/afhh2nuf
   II. Challenge 2
     1. URL: https://edabit.com/challenge/ARr5tA458o2tC9FTN
-    2. Solution: 
+    2. Solution: https://ru.files.fm/u/afhh2nuf
+  III. Challenge 3
+    1. URL: https://edabit.com/challenge/iBQYbSHZGhpktLRdn
+    2. Solution: https://ru.files.fm/u/5f4wzsw3
+  IV. Challenge 4
+    1. URL: https://edabit.com/challenge/3CaszbdZYGN4otQD8
+    2. Solution: https://ru.files.fm/u/cph4fcvh
+  v. Challenge 5
+    1. URL: https://edabit.com/challenge/kJQYTCCWSnzhXG9dn
+    2. Solution: https://ru.files.fm/u/zy5zq42q
+e. Scope
+  I. Challenge 1
+    1. URL: 
+    2. Solution:
+  II. Challenge 2
+    1. URL:
+    2. Solution:
   III. Challenge 3
     1. URL:
     2. Solution:
@@ -62,7 +78,23 @@ d. Functional Programming
   v. Challenge 5
     1. URL:
     2. Solution:
-e. Scope
+f. Objects
+  I. Challenge 1
+    1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+    2. Solution:  https://ru.files.fm/u/b8hpexxq
+  II. Challenge 2
+    1. URL:
+    2. Solution:
+  III. Challenge 3
+    1. URL:
+    2. Solution:
+  IV. Challenge 4
+    1. URL:
+    2. Solution:
+  v. Challenge 5
+    1. URL:
+    2. Solution:
+g. Classes
   I. Challenge 1
     1. URL: 
     2. Solution:
