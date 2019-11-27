@@ -83,17 +83,17 @@ f. Objects
     1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
     2. Solution:  https://ru.files.fm/u/b8hpexxq
   II. Challenge 2
-    1. URL:
-    2. Solution:
+    1. URL: https://edabit.com/challenge/CzPEsTuXfE8J8vknX
+    2. Solution: https://ru.files.fm/u/z8n7caeh
   III. Challenge 3
-    1. URL:
-    2. Solution:
+    1. URL: https://edabit.com/challenge/6kdGMdd78jpZ45ujo
+    2. Solution: https://ru.files.fm/u/b8dc6ak5
   IV. Challenge 4
-    1. URL:
-    2. Solution:
+    1. URL: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
+    2. Solution: https://ru.files.fm/u/y4x4r58d
   v. Challenge 5
-    1. URL:
-    2. Solution:
+    1. URL: 
+    2. Solution: 
 g. Classes
   I. Challenge 1
     1. URL: 
