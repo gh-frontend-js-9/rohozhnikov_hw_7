@@ -64,8 +64,8 @@
 2. Solution: https://ru.files.fm/u/zy5zq42q
 ### e. Scope
 ##### I. Challenge 1
-1. URL: 
-2. Solution:
+1. URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k 
+2. Solution: https://ru.files.fm/u/e2dzhj546
 ##### II. Challenge 2
 1. URL:
 2. Solution:
