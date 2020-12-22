@@ -70,14 +70,34 @@
 1. URL:
 2. Solution:
 ##### III. Challenge 3
-1. URL:
-2. Solution:
+1. URL: https://edabit.com/challenge/NHfYRHg2tDtcZyykB
+2. Code:
+```javascript
+function possibleBonus(a, b) {
+    return b - a <= 6 && b - a > 0
+}
+```
 ##### IV. Challenge 4
 1. URL:
-2. Solution:
+2. Code:
+```javascript
+function reversibleInclusiveList(start, end) {
+    let arr = []
+    let min = Math.min(start, end)
+    let max = Math.max(start, end)
+    for(; min <= max; min++) arr.push(min)
+    return start <= end ? arr : arr.reverse()
+}
+```
 ##### v. Challenge 5
-1. URL:
-2. Solution:
+1. URL: https://edabit.com/challenge/erFxBbqzZPSegMwnc
+2. Code:
+```javascript
+function changeEnough(change, amountDue) {
+    let sum = change[0] * 0.25 + change[1] * 0.1 + change[2] * 0.05 + change[3] * 0.01;
+    return sum >= amountDue;
+}
+```
 ### f. Objects
 ##### I. Challenge 1
 1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
@@ -103,10 +123,7 @@
 2. Solution:
 ##### III. Challenge 3
 1. URL:
-2. Solution:
+2. Code:
 ##### IV. Challenge 4
 1. URL:
-2. Solution:
-##### v. Challenge 5
-1. URL:
-2. Solution:
+2. Code:
