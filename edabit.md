@@ -67,8 +67,13 @@
 1. URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k 
 2. Solution: https://ru.files.fm/u/e2dzhj546
 ##### II. Challenge 2
-1. URL:
-2. Solution:
+1. URL: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+2. Code:
+```javascript
+function toArray(obj) {
+    return Object.entries(obj)
+}
+```
 ##### III. Challenge 3
 1. URL: https://edabit.com/challenge/NHfYRHg2tDtcZyykB
 2. Code:
@@ -111,19 +116,121 @@ function changeEnough(change, amountDue) {
 ##### IV. Challenge 4
 1. URL: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
 2. Solution: https://ru.files.fm/u/y4x4r58d
-##### v. Challenge 5
-1. URL: 
-2. Solution: 
+##### V. Challenge 5
+1. URL: https://edabit.com/challenge/RxsaajpPai3CB9G9e
+2. Code: 
+```javascript
+function determineLever(arr) {
+    return arr[1] == 'f' ? 'first class lever' : 
+        arr[2] == 'f' ? 'second class lever' : 
+        'third class lever';
+}
+```
 ### g. Classes
 ##### I. Challenge 1
-1. URL: 
-2. Solution:
+1. URL: https://edabit.com/challenge/ZngT4zDckDugt2JGY
+2. Code:
+```javascript
+class Player {
+    constructor(name, age, height, weight) {
+        this.name = name
+        this.age = age
+        this.height = height
+        this.weight = weight
+    }
+    
+    getAge() {
+        return `${this.name} is age ${this.age}`
+    }
+    
+    getHeight() {
+        return `${this.name} is ${this.height}cm`
+    }
+    
+    getWeight() {
+        return `${this.name} weighs ${this.weight}kg`
+    }
+}
+```
 ##### II. Challenge 2
-1. URL:
-2. Solution:
+1. URL: https://edabit.com/challenge/yxKoCKemzacK6PECM
+2. Code:
+```javascript
+class Calculator {
+    add(x, y) {
+        return x + y
+    }
+    
+    subtract(x, y) {
+        return x - y
+    }
+    
+    multiply(x, y) {
+        return x * y
+    }
+    
+    divide(x, y) {
+        return x / y
+    }
+}
+```
 ##### III. Challenge 3
-1. URL:
+1. URL: https://edabit.com/challenge/SrCTGbhwPRyHZSAGu
 2. Code:
+```javascript
+class BasicPlan {
+    static canStream = true;
+    static canDownload = true;
+    static numOfDevices = 1;
+    static hasSD = true;
+    static hasHD = false;
+    static hasUHD = false;
+    static price = '$8.99';
+}
+
+class StandardPlan extends BasicPlan {
+    static numOfDevices = 2;
+    static hasHD = true;
+    static price = '$12.99';
+}
+
+class PremiumPlan extends StandardPlan {
+    static numOfDevices = 4;
+    static hasUHD = true;
+    static price = '$15.99'; 
+}
+```
 ##### IV. Challenge 4
-1. URL:
+1. URL: https://edabit.com/challenge/kGLhgwGaLJsCMS7wS
 2. Code:
+```javascript
+class Employee {
+    constructor (firstname, lastname) {
+        this.firstname = firstname
+        this.lastname = lastname
+        this.fullname = `${firstname} ${lastname}`
+        this.email = (firstname +'.'+ lastname + '@company.com').toLowerCase()
+    }
+}
+```
+##### IV. Challenge 5
+1. URL: https://edabit.com/challenge/iwdZiFucR5wkQsFHu
+2. Code:
+```javascript
+class Person {
+    constructor(name, age) {
+        this.name = name;
+        this.age = age;
+    }
+    
+    compareAge(other) {
+        if(this.age < other.age) {
+            return `${other.name} is older than me.`;
+        } else if (this.age == other.age) {
+            return `${other.name} is the same age as me.`; 
+        } else {
+            return `${other.name} is younger than me.`; 
+        }
+    }
+}
+```
